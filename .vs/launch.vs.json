@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "Engine.exe (G:\\Code\\3D\\Visual\\Bin\\Engine.exe)",
+      "name": "Engine.exe (G:\\Code\\3D\\Visual\\Bin\\Engine.exe)"
+    }
+  ]
+}

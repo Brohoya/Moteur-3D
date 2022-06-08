@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Engine",
+    "\\Engine\\Header",
+    "\\Engine\\Header\\Rendering",
+    "\\Engine\\Header\\Rendering\\Renderer",
+    "\\Engine\\Header\\Rendering\\Renderer\\OpenGL33",
+    "\\Engine\\Source",
+    "\\Engine\\Source\\Rendering",
+    "\\Engine\\Source\\Rendering\\Renderer",
+    "\\Engine\\Source\\Rendering\\Renderer\\OpenGL33"
+  ],
+  "SelectedNode": "\\Engine\\Source\\Rendering\\IRenderingEngine.cpp",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,5 @@
+# ninja log v5
+28	1046	6757799962519739	Engine/Source/CMakeFiles/Engine.dir/Rendering/Renderer/IWindow.cpp.obj	bede982529d56e91
+1	1542	6757799967471097	Engine/Source/CMakeFiles/Engine.dir/main.cpp.obj	be2fb6db12a4549e
+41	1544	6757799967496147	Engine/Source/CMakeFiles/Engine.dir/Rendering/Renderer/OpenGL33/COpenGL33Window.cpp.obj	1a8f556b7b88bb36
+1544	2900	6757799978242233	../../../Bin/Engine.exe	c760b5063088ff93

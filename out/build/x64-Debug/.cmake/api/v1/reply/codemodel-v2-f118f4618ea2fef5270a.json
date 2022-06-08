@@ -1,0 +1,74 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Engine/Source",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Engine/Source",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "Engine",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Engine::@e1f4f4387422890e0a5c",
+					"jsonFile" : "target-Engine-Debug-c1790926a24b93235940.json",
+					"name" : "Engine",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Code/3D/Visual/out/build/x64-Debug",
+		"source" : "E:/Code/3D/Visual"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
